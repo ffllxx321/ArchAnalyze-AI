@@ -1,0 +1,5 @@
+{
+  "name": "ArchAnalyze AI",
+  "description": "建筑装饰概算分析应用，支持图片AI识别材料、品牌库推荐、Revit明细表导入及概算造价生成。",
+  "requestFramePermissions": []
+}
